@@ -1,0 +1,11 @@
+{
+    "name": "Portugal's TV Channels",
+    "name:es": "TV Portugal",
+    "name:pt": "Televisão de Portugal",
+    "id": "com.getwatchthis.tv-pt",
+    "version": "1",
+    "kind": "tv",
+    "image": "flag:pt",
+    "short_description": "TV channels from Portugal",
+    "short_description:es": "Canais TV de Portugal"
+}
